@@ -1,2 +1,0 @@
-# AplikasiCekNomorGenapGanjil
-Tugas 1
